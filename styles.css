@@ -1,0 +1,59 @@
+body {
+  background-color:black;
+}
+
+header {
+  background-color: whitesmoke;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Trebuchet MS', monospace;
+  color: black;
+  font-size: 50px;
+  text-shadow: 2px 2px 4px;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 40px;
+  color: ghostwhite;
+  text-align: center;
+}
+
+p {
+  font-family: Garamond;
+  font-size: 20px;
+  color: ghostwhite;
+}
+
+img {
+  border-width: 3px;
+  border-style: double;
+  border-color: #000000;
+  display: block;
+  margin-right: auto; 
+  margin-left: auto;
+}
+
+a {
+  font-family: Garamond;
+  color: ghostwhite;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8CBCFF;
+}
+
+ol {
+  list-style-type: none;
+  text-align: center;
+}
+
+p.outset {border-style: outset;}
+
+}
